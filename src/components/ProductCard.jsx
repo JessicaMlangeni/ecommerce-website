@@ -12,7 +12,7 @@ const ProductCard = ({ product }) => {
       <p className="font-bold mt-2">${product.price}</p>
       <button
         onClick={() => dispatch(addToCart(product))}
-        className="bg-black text-white mt-2 px-4 py-1 rounded flex items-center gap-2"
+        className="bg-black text-white mt-2 px-4 py-1 rounded-full flex items-center gap-2"
       >
         🛒 Add
       </button>

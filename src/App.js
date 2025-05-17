@@ -1,6 +1,8 @@
 
 import ProductGrid from './components/ProductGrid';
 import BagSidebar from './components/BagSidebar';
+import Navbar from './components/Navbar';
+import ProductCard from './components/ProductCard';
 
 function App() {
   return (
