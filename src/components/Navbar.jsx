@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"; //searchbar component stores the functions that handle searching items 
+/*import React, { useState, useEffect } from "react"; //searchbar component stores the functions that handle searching items 
 import { useNavigate } from "react-router-dom";
 
 const SearchBar = ({ onSearch, resetDashboard }) => {
@@ -64,4 +64,4 @@ const SearchBar = ({ onSearch, resetDashboard }) => {
 };
 
 
-export default Navbar;
+export default Navbar;*/
